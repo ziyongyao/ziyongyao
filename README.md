@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ziyongyao
-- 👀 I’m interested in  sleeping
-- 🌱 I’m currently learning  python and c
+- 👀 I’m interesting in doing cross-disciplinary work
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  lalalalala
+- 📫 How to reach me  ziyongyao8@gmail.com
 
 <!---
 ziyongyao/ziyongyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
